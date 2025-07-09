@@ -11,3 +11,6 @@ git subtree pull --prefix src/main/protos/ protocol master
 
 ## Now it can be built with `buf generate`
 
+1. [Install Buf](https://buf.build/docs/cli/installation/)
+2. Run `make generate`
+
